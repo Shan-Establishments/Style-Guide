@@ -1,0 +1,139 @@
+html {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: black;
+    overflow-x: hidden;
+}
+
+
+#title {
+    text-align: center;
+    color: white;
+}
+
+section {
+    display: border;
+    border: 1px black solid;
+    margin: 1em;
+    background-color: white;
+}
+
+.colours {
+    display: inline-block;
+    border: 1px black solid;
+    height: 100px;
+    width: 200px;
+    margin: 20px;
+    left: 250px;
+    position: relative;
+    text-align: center;
+}
+
+#Raisin {
+    text-align: center;
+    background-color: #290916;
+    color: white;
+}
+
+#Plum {
+    text-align: center;
+    background-color: #601A35;
+    color: white;
+}
+
+#Magneta {
+    text-align: center;
+    background-color: #A1045A;
+    color: white;
+}
+
+#Merigold {
+    text-align: center;
+    background-color: #FCAE1E;
+    color: black;
+}
+
+#section1 {
+    text-align: center;
+}
+
+#div1 {
+    display: block;
+    position: relative;
+    left: 30px;
+}
+
+#div2 {
+    display: block;
+    position: relative;
+    left: 500px;
+    top: 10px;
+}
+
+#div3 {
+    display: block;
+    position: relative;
+    left: 1000px;
+    top: 10px;
+}
+
+#Poppins1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+}
+
+#Poppins2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+
+#Poppins3 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+
+#Nunito1 {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 300;
+}
+
+#Nunito2 {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 400;
+}
+
+#Nunito3 {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 700;
+}
+
+#Raleway1  {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+}
+
+#Raleway2 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+}
+
+#Raleway3 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+}
+
+#section2 {
+    text-align: center;
+}
+
+.section3 {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+footer {
+    color: white;
+    text-align: right;
+}
