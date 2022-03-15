@@ -11,4 +11,4 @@ I used HTML and CSS to design my project.
 Here is a sample of my website so far:
 ![myWebsiteStyleGuide](https://user-images.githubusercontent.com/96252845/158417202-b16c7d09-b49f-47c8-b1d8-3bf343ad5603.jpeg)
 
-You can view my website fully [here]().
+You can view my website fully [here](https://shan-establishments.github.io/Style-Guide/).
